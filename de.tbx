@@ -14,6 +14,66 @@
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Gruppe/Channel</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Konto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>encryption keys</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schlüssel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>your</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>dein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>du</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Monal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>OMEMO</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>roster</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kontaktliste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>WiFi</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>WLAN</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Profilbild</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>messages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nachrichten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push notifications</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Push-Benachrichtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>qrcode</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>QR-Code</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conversation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Unterhaltung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
