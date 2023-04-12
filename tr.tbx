@@ -22,6 +22,58 @@
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>hesap</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>encryption keys</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>şifreleme anahtarları</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>your</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>senin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>roster</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>adres listesi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bildirim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>WiFi</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>WLAN</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>profil fotoğrafı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bildirimler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>messages</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>mesajlar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push notifications</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Anında bildirimler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>qrcode</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>QR-Kodu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conversation</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>konuşma</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
