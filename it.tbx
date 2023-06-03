@@ -12,15 +12,15 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Multi-User Chat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Monal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
         </body>
     </text>
