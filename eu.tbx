@@ -12,15 +12,15 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Erabiltzaile bat baino gehiagoko txata (MUC)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Monal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
         </body>
     </text>
