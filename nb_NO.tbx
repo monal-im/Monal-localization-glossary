@@ -22,6 +22,14 @@
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
