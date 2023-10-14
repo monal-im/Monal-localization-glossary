@@ -30,6 +30,14 @@
                 <langSet xml:lang="en"><tig><term>Open Source</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Open Source</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
