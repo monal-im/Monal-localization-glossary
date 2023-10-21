@@ -76,11 +76,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Cihaz Kimliği</term></tig></langSet>
+                <note from="translator">ID yerine Kimlik kelimesi daha türkçe olacaktır</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kare Kod</term></tig></langSet>
+                <note from="translator">QR kod da kullanılabilir</note>
             </termEntry>
         </body>
     </text>
