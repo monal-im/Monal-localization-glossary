@@ -24,11 +24,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>设备ID</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>二维码</term></tig></langSet>
             </termEntry>
         </body>
     </text>
