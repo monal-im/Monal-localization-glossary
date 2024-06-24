@@ -30,6 +30,22 @@
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
                 <langSet xml:lang="es_419"><tig><term>Código QR</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>month</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>mes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>months</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>meses</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hour</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>hora</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hours</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>horas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
