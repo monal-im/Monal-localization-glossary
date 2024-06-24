@@ -30,6 +30,10 @@
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>二维码</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>XMPP ID</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>XMPP 地址</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
