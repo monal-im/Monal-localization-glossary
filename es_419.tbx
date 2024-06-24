@@ -46,6 +46,18 @@
                 <langSet xml:lang="en"><tig><term>hours</term></tig></langSet>
                 <langSet xml:lang="es_419"><tig><term>horas</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>day</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>día</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>days</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>días</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>days</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>días</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
