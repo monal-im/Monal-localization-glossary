@@ -24,7 +24,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Device ID</term></tig></langSet>
+                <note from="translator">English translation may be used here, instead of french words "identifiant de l'appareil", not sure the french word will be more relevant and clear</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
