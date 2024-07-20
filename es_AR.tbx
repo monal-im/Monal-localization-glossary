@@ -13,6 +13,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
                 <langSet xml:lang="es_AR"><tig><term>OMEMO</term></tig></langSet>
+                <note from="translator">OMEMO</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
