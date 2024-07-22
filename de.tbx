@@ -114,6 +114,14 @@
                 <langSet xml:lang="en"><tig><term>XMPP ID</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>XMPP-Adresse</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phone number</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Telefonnummer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quicksy</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Quicksy</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
