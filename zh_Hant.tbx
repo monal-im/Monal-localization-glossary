@@ -12,15 +12,15 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>MUC</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>貓撓</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
