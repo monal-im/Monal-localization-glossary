@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>MUC</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>群聊</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
@@ -24,7 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>设备ID</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>设备 ID</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
