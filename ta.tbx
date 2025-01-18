@@ -12,23 +12,23 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>சளி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>மோனால்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>மெமோ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>சாதன ஐடி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>Qr-code</term></tig></langSet>
             </termEntry>
         </body>
     </text>
