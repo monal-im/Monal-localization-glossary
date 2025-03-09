@@ -12,23 +12,23 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Chat multiusuário</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Monal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Identificação do Dispositivo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>QR-Code</term></tig></langSet>
             </termEntry>
         </body>
     </text>
