@@ -25,7 +25,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>Идентификатор устройства</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ИД устройства</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
