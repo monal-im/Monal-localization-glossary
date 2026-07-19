@@ -25,7 +25,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>ID de l’appareil</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>ID d'appareil</term></tig></langSet>
                 <note from="translator">Yes we use french term here, more clear</note>
             </termEntry>
             <termEntry>
