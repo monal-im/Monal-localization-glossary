@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>encryption keys</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Verschlüsselungsschlüssel</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schlüssel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>your</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>jid</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>jid</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>XMPP-Adresse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>XMPP ID</term></tig></langSet>
