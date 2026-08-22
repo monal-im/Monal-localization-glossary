@@ -12,23 +12,23 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>OMEMO</term></tig></langSet>
-                <langSet xml:lang="ms"><tig><term/></tig></langSet>
+                <langSet xml:lang="ms"><tig><term>OMEMO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Device ID</term></tig></langSet>
-                <langSet xml:lang="ms"><tig><term/></tig></langSet>
+                <langSet xml:lang="ms"><tig><term>ID Peranti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Monal</term></tig></langSet>
-                <langSet xml:lang="ms"><tig><term/></tig></langSet>
+                <langSet xml:lang="ms"><tig><term>Monal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MUC</term></tig></langSet>
-                <langSet xml:lang="ms"><tig><term/></tig></langSet>
+                <langSet xml:lang="ms"><tig><term>Ruang sembang</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QR-Code</term></tig></langSet>
-                <langSet xml:lang="ms"><tig><term/></tig></langSet>
+                <langSet xml:lang="ms"><tig><term>Kod QR</term></tig></langSet>
             </termEntry>
         </body>
     </text>
